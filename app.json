@@ -11,12 +11,12 @@
     "env":
     {
       "NODE_ENV"        : "production",
-      "RPC_HOST"        : "localhost",
+      "RPC_HOST"        : "192.168.1.103",
       "RPC_PORT"        : "8545",
       "LISTENING_PORT"  : "30303",
       "INSTANCE_NAME"   : "node1",
       "CONTACT_DETAILS" : "",
-      "WS_SERVER"       : "http://localhost:3000",
+      "WS_SERVER"       : "http://192.168.1.103:3000",
       "WS_SECRET"       : "test",
       "VERBOSITY"       : 2
     }
